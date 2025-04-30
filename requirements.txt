@@ -1,8 +1,7 @@
-agno==1.2.8
-streamlit==1.44.1
+agno
+streamlit
 ollama
 Requests
-#firecrawl-py
 crawl4ai
 elevenlabs
 python-dotenv
